@@ -3,14 +3,21 @@
 
 ![github1](https://github.com/user-attachments/assets/fd977016-b3d9-4a8b-8d9b-46420418ea53)
 
-- 👨‍💻 All of my projects are available at [[portfolio link]](https://portfolio-pavankumar.netlify.app/)(portfolio link)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-pavankumar.netlify.app/)(portfolio link)
 
-- 📫 How to reach me **pavankumar170896@gmail.com**
-
-- 📄 Know about my experiences [resume link][(resume link)](https://drive.google.com/file/d/1CMtS6e2ia3CyRLhVSNry2KLb5k8pmjL6/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CMtS6e2ia3CyRLhVSNry2KLb5k8pmjL6/view?usp=sharing)(resume link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/pavan-kumar-a4a050250/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pavankumar170896@hmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Pavan0896" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
