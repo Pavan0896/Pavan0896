@@ -3,11 +3,11 @@
 
 ![github1](https://github.com/user-attachments/assets/fd977016-b3d9-4a8b-8d9b-46420418ea53)
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 All of my projects are available at [[portfolio link]](https://portfolio-pavankumar.netlify.app/)(portfolio link)
 
 - 📫 How to reach me **pavankumar170896@gmail.com**
 
-- 📄 Know about my experiences [resume link](resume link)
+- 📄 Know about my experiences [resume link][(resume link)](https://drive.google.com/file/d/1CMtS6e2ia3CyRLhVSNry2KLb5k8pmjL6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
