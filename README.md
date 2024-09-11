@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-pavankumar.netlify.app/)(portfolio link)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19F9pbcXqz0JXahE5KW_Dzci3J3ee6Y4f/view?usp=sharing)(resume link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BRUyaW4u6Xt3aWmU2t91osxO-kA4d8oY/view?usp=sharing)(resume link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
